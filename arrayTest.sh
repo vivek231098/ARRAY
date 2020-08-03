@@ -1,4 +1,5 @@
 #!/bin/bash -x
+echo "Array Problems"
 
 counter=0
 Fruit[((counter++))]="Apple"
