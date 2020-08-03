@@ -1,5 +1,5 @@
 #!/bin/bash -x
-echo "Array Problems"
+echo "Its a new branch"
 
 counter=0
 Fruit[((counter++))]="Apple"
